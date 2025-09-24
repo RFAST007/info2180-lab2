@@ -56,11 +56,13 @@ header{
 }
 
 main{
+    margin: 40px;
     padding: 20px;
     grid-area: main;
 }
 
 aside{
+    margin: 40px;
     padding: 20px;
     grid-area: aside;
     display: flex;
