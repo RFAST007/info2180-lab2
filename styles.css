@@ -101,5 +101,10 @@ h3{
     color: #718096;
 }
 
-
+hr{
+    border: none;
+    height: 2px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
 
